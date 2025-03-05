@@ -1,4 +1,4 @@
-# Barbearia Agendamento
+# Agendamento de uma barbearia
 
 Este é o projeto 4 do bootcamp da DIO x Avanade, um simples agendamento de barbearia desenvolvido com Spring Boot no backend e uma simulação básica do Angular no frontend.
 
